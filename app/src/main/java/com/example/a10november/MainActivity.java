@@ -12,7 +12,7 @@ import android.widget.Button;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-
+    // Comment
     private Button btn;
     private int counter;
     private TextView tv;
